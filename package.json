@@ -1,0 +1,21 @@
+{
+    "name": "discord_bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Trent",
+    "license": "ISC",
+    "dependencies": {
+        "discord-economy": "^1.2.2",
+        "discord.js": "^12.5.1",
+        "discord.js-commando": "^0.10.0",
+        "economy": "^1.1.0",
+        "features": "^0.1.0",
+        "mongoose": "^5.11.7",
+        "ms": "^2.1.2",
+        "redis": "^3.0.2"
+    }
+}
